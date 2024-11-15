@@ -1,3 +1,10 @@
+---
+icon: microchip
+cover: >-
+  https://images.unsplash.com/photo-1694444070793-13db645409f4?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxMHx8Y29tcHV0ZXIlMjBoYXJkd2FyZXxlbnwwfHx8fDE3MzE2Nzg3NTJ8MA&ixlib=rb-4.0.3&q=85
+coverY: -20
+---
+
 # Requirements
 
 ## Hardware
@@ -54,9 +61,9 @@ SecureZone requires at least 7GB of free disk space for installation. The storag
 
 SecureZone is supported on the following operating systems:
 
-- Linux, x86-64 and ARM64
-- Windows 10 and 11, x86-64 and ARM64
-- macOS, 64-bit Intel CPU
-- macOS, 64-bit Apple Silicon CPU
+* Linux, x86-64 and ARM64
+* Windows 10 and 11, x86-64 and ARM64
+* macOS, 64-bit Intel CPU
+* macOS, 64-bit Apple Silicon CPU
 
 SecureZone is not supported on 32-bit systems.

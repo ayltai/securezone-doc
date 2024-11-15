@@ -1,3 +1,10 @@
+---
+icon: clock-seven
+cover: >-
+  https://images.unsplash.com/photo-1627756508516-751ccf5500ac?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHx0cmVzcGFzc3xlbnwwfHx8fDE3MzE2ODAzODh8MA&ixlib=rb-4.0.3&q=85
+coverY: 103
+---
+
 # Events
 
 Events are a collection of triggered intrusion detections. You can review the events that have been triggered by clicking on the Events tab in the sidebar. The Events tab will display a list of all the events that have been triggered, along with the date and time that the event was triggered. You can click on the snapshot of the event to view what triggered the event and where it occurred and the detection confidence level. If you are subscribed to the Standard or Premier plan, you can also view the event video showing what exactly happened during the event.
@@ -6,9 +13,9 @@ Events are a collection of triggered intrusion detections. You can review the ev
 
 You can filter events by the following criteria:
 
-- **Date Range**: Filter events by a specific date range.
-- **Monitor name**: Filter events by a specific monitor.
-- **Deleted objects**: Filter events by deleted objects.
+* **Date Range**: Filter events by a specific date range.
+* **Monitor name**: Filter events by a specific monitor.
+* **Deleted objects**: Filter events by deleted objects.
 
 ## Deleting Events
 

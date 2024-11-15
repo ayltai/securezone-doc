@@ -1,4 +1,11 @@
-# Initial setup
+---
+icon: sign-posts-wrench
+cover: >-
+  https://images.unsplash.com/photo-1460467820054-c87ab43e9b59?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHx3ZWxjb21lfGVufDB8fHx8MTczMTY4MTAxMXww&ixlib=rb-4.0.3&q=85
+coverY: 38
+---
+
+# Initial Setup
 
 Because SecureZone requires a paid subscription to use, you will need to create an account and subscribe to a plan before you can start a monitor for intrusion detection. This guide will walk you through the initial setup process.
 

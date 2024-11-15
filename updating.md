@@ -1,4 +1,11 @@
-# Updating SecureZone
+---
+icon: arrows-rotate
+cover: >-
+  https://images.unsplash.com/photo-1620843002805-05a08cb72f57?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw0fHxwYyUyMHVwZGF0ZXxlbnwwfHx8fDE3MzE2Nzk0NjV8MA&ixlib=rb-4.0.3&q=85
+coverY: -218
+---
+
+# Updating
 
 SecureZone is updated regularly with new features, improvements and bug fixes so it is important to keep your SecureZone installation up to date. This guide will show you how to update SecureZone to the latest version.
 

@@ -1,4 +1,11 @@
-# Camera setup
+---
+icon: camera-cctv
+cover: >-
+  https://images.unsplash.com/photo-1549109926-58f039549485?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw0fHxzZWN1cml0eSUyMGNhbWVyYXxlbnwwfHx8fDE3MzE2Nzg4Mjh8MA&ixlib=rb-4.0.3&q=85
+coverY: 9
+---
+
+# Camera Setup
 
 Cameras that support RTSP or HTTP/S streaming are compatible with SecureZone. If your camera support multiple sstreams, it is recommended to use a substream with a resolution of 1080p or lower. A 640x360 or 640x480 resolution is recommended for the best performance.
 
