@@ -1,8 +1,8 @@
 ---
 icon: arrows-rotate
 cover: >-
-  https://images.unsplash.com/photo-1620843002805-05a08cb72f57?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw0fHxwYyUyMHVwZGF0ZXxlbnwwfHx8fDE3MzE2Nzk0NjV8MA&ixlib=rb-4.0.3&q=85
-coverY: -435
+  https://images.unsplash.com/photo-1602763288580-927cfda37a72?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxMHx8Y29tcHV0ZXIlMjB1cGdyYWRlfGVufDB8fHx8MTczMTkzMjc1Mnww&ixlib=rb-4.0.3&q=85
+coverY: 0
 layout:
   cover:
     visible: true

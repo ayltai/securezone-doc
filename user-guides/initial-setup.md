@@ -1,8 +1,8 @@
 ---
 icon: sign-posts-wrench
 cover: >-
-  https://images.unsplash.com/photo-1460467820054-c87ab43e9b59?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHx3ZWxjb21lfGVufDB8fHx8MTczMTY4MTAxMXww&ixlib=rb-4.0.3&q=85
-coverY: -64
+  https://images.unsplash.com/photo-1520694146360-85079777e456?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw1fHx3ZWxjb21lfGVufDB8fHx8MTczMTkzMjc4OXww&ixlib=rb-4.0.3&q=85
+coverY: -40
 layout:
   cover:
     visible: true

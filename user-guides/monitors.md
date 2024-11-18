@@ -1,8 +1,8 @@
 ---
 icon: video
 cover: >-
-  https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw5fHxjYW1lcmElMjBhbmFseXNpc3xlbnwwfHx8fDE3MzE2Nzk5MzF8MA&ixlib=rb-4.0.3&q=85
-coverY: 116
+  https://images.unsplash.com/photo-1513224502586-d1e602410265?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxoZWFsdGglMjBtb25pdG9yfGVufDB8fHx8MTczMTkzMjk4NXww&ixlib=rb-4.0.3&q=85
+coverY: 0
 layout:
   cover:
     visible: true

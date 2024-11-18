@@ -1,8 +1,8 @@
 ---
 icon: docker
 cover: >-
-  https://images.unsplash.com/photo-1646627927863-19874c27316b?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw1fHxkb2NrZXJ8ZW58MHx8fHwxNzMxNjc5Mjk5fDA&ixlib=rb-4.0.3&q=85
-coverY: 52
+  https://images.unsplash.com/photo-1605745341112-85968b19335b?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw2fHxjb250YWluZXIlMjBkb2NrZXJ8ZW58MHx8fHwxNzMxOTMyNTE1fDA&ixlib=rb-4.0.3&q=85
+coverY: 15
 layout:
   cover:
     visible: true
