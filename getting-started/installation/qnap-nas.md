@@ -2,7 +2,21 @@
 icon: hard-drive
 cover: >-
   https://images.unsplash.com/photo-1620361421000-64328420819f?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxxbmFwfGVufDB8fHx8MTczMTY4MDU4NXww&ixlib=rb-4.0.3&q=85
-coverY: 26
+coverY: -12
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # QNAP NAS

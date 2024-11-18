@@ -2,7 +2,21 @@
 icon: docker
 cover: >-
   https://images.unsplash.com/photo-1646627927863-19874c27316b?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw1fHxkb2NrZXJ8ZW58MHx8fHwxNzMxNjc5Mjk5fDA&ixlib=rb-4.0.3&q=85
-coverY: 32
+coverY: 52
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Docker

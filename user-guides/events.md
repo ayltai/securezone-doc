@@ -1,8 +1,22 @@
 ---
 icon: clock-seven
 cover: >-
-  https://images.unsplash.com/photo-1627756508516-751ccf5500ac?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHx0cmVzcGFzc3xlbnwwfHx8fDE3MzE2ODAzODh8MA&ixlib=rb-4.0.3&q=85
-coverY: 103
+  https://images.unsplash.com/photo-1542539629-9c411af3367c?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHx0cmVzcGFzc3xlbnwwfHx8fDE3MzE5MzIwMDB8MA&ixlib=rb-4.0.3&q=85
+coverY: -3
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Events

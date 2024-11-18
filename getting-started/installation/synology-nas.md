@@ -3,6 +3,20 @@ icon: hard-drive
 cover: >-
   https://images.unsplash.com/photo-1577538926988-7926820ed209?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwzfHxzeW5vbG9neXxlbnwwfHx8fDE3MzE2ODA1NTZ8MA&ixlib=rb-4.0.3&q=85
 coverY: 67
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Synology NAS

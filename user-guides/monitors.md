@@ -2,7 +2,21 @@
 icon: video
 cover: >-
   https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw5fHxjYW1lcmElMjBhbmFseXNpc3xlbnwwfHx8fDE3MzE2Nzk5MzF8MA&ixlib=rb-4.0.3&q=85
-coverY: 141
+coverY: 116
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Monitors

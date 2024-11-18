@@ -3,6 +3,20 @@ icon: bell-on
 cover: >-
   https://images.unsplash.com/photo-1514464750060-00e6e34c8b8c?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxub3RpZmljYXRpb258ZW58MHx8fHwxNzMxNjc5ODExfDA&ixlib=rb-4.0.3&q=85
 coverY: -45
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Notifications

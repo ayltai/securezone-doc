@@ -2,7 +2,21 @@
 icon: sign-posts-wrench
 cover: >-
   https://images.unsplash.com/photo-1460467820054-c87ab43e9b59?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHx3ZWxjb21lfGVufDB8fHx8MTczMTY4MTAxMXww&ixlib=rb-4.0.3&q=85
-coverY: 38
+coverY: -64
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Initial Setup
