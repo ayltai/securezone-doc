@@ -10,7 +10,7 @@ layout:
   title:
     visible: true
   description:
-    visible: true
+    visible: false
   tableOfContents:
     visible: true
   outline:
@@ -19,7 +19,7 @@ layout:
     visible: true
 ---
 
-# Notifications
+# 3.2 Notifications
 
 Notifications are a way to get notified immediately when an intrusion is detected. You can receive notifications via email or Slack instant messaging.
 

@@ -10,7 +10,7 @@ layout:
   title:
     visible: true
   description:
-    visible: true
+    visible: false
   tableOfContents:
     visible: true
   outline:
@@ -19,7 +19,7 @@ layout:
     visible: true
 ---
 
-# Monitors
+# 3.3 Monitors
 
 Monitors are a way to specify to configure the monitoring of a camera video stream. Monitors can be used to detect intrusions and motions in the defined area of the camera video stream. Monitors can be configured to send notifications when an intrusion or motion is detected.
 

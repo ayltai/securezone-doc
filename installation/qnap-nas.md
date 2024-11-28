@@ -10,7 +10,7 @@ layout:
   title:
     visible: true
   description:
-    visible: true
+    visible: false
   tableOfContents:
     visible: true
   outline:
@@ -19,7 +19,7 @@ layout:
     visible: true
 ---
 
-# QNAP NAS
+# 2.2 QNAP NAS
 
 SecureZone can be installed on a QNAP NAS using the [Container Station](https://www.qnap.com/en/software/container-station) app. This guide will walk you through the steps to install SecureZone on your QNAP NAS.
 

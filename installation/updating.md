@@ -10,7 +10,7 @@ layout:
   title:
     visible: true
   description:
-    visible: true
+    visible: false
   tableOfContents:
     visible: true
   outline:
@@ -19,7 +19,7 @@ layout:
     visible: true
 ---
 
-# Updating
+# 2.4 Updating
 
 SecureZone is updated regularly with new features, improvements and bug fixes so it is important to keep your SecureZone installation up to date. This guide will show you how to update SecureZone to the latest version.
 

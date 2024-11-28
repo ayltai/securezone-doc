@@ -10,7 +10,7 @@ layout:
   title:
     visible: true
   description:
-    visible: true
+    visible: false
   tableOfContents:
     visible: true
   outline:
@@ -19,7 +19,7 @@ layout:
     visible: true
 ---
 
-# Events
+# 3.4 Events
 
 Events are a collection of triggered intrusion detections. You can review the events that have been triggered by clicking on the Events tab in the sidebar. The Events tab will display a list of all the events that have been triggered, along with the date and time that the event was triggered. You can click on the snapshot of the event to view what triggered the event and where it occurred and the detection confidence level. If you are subscribed to the Standard or Premier plan, you can also view the event video showing what exactly happened during the event.
 

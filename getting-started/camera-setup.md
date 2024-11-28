@@ -10,7 +10,7 @@ layout:
   title:
     visible: true
   description:
-    visible: true
+    visible: false
   tableOfContents:
     visible: true
   outline:
@@ -19,7 +19,7 @@ layout:
     visible: true
 ---
 
-# Camera Setup
+# 1.3 Camera Setup
 
 Cameras that support RTSP or HTTP/S streaming are compatible with SecureZone. If your camera support multiple sstreams, it is recommended to use a substream with a resolution of 1080p or lower. A 640x360 or 640x480 resolution is recommended for the best performance.
 

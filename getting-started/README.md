@@ -10,7 +10,7 @@ layout:
   title:
     visible: true
   description:
-    visible: true
+    visible: false
   tableOfContents:
     visible: true
   outline:
@@ -19,6 +19,6 @@ layout:
     visible: true
 ---
 
-# Getting Started
+# 1.1 Getting Started
 
 This section will guide you through the initial setup of Shinobi. It will cover the requirements, installation, camera setup, and updating SecureZone.

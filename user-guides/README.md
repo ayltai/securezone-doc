@@ -10,7 +10,7 @@ layout:
   title:
     visible: true
   description:
-    visible: true
+    visible: false
   tableOfContents:
     visible: true
   outline:
@@ -19,6 +19,6 @@ layout:
     visible: true
 ---
 
-# User Guides
+# 3. User Guides
 
 This section contains basic information about various parts of the system and how to use them. If you have any questions, please contact the [support team](mailto:geekylifehacks@googlegroups.com).

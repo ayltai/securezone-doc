@@ -10,7 +10,7 @@ layout:
   title:
     visible: true
   description:
-    visible: true
+    visible: false
   tableOfContents:
     visible: true
   outline:
@@ -19,7 +19,7 @@ layout:
     visible: true
 ---
 
-# Synology NAS
+# 2.1 Synology NAS
 
 SecureZone can be installed on a Synology NAS using the [Container Manager](https://www.synology.com/en-uk/dsm/feature/docker) package. This guide will walk you through the steps to install SecureZone on your Synology NAS.
 

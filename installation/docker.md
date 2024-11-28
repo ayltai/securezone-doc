@@ -10,7 +10,7 @@ layout:
   title:
     visible: true
   description:
-    visible: true
+    visible: false
   tableOfContents:
     visible: true
   outline:
@@ -19,7 +19,7 @@ layout:
     visible: true
 ---
 
-# Docker
+# 2.3 Docker
 
 SecureZone runs as a Docker container on a Docker engine. This guide will walk you through the steps to install SecureZone using Docker.
 

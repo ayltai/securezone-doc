@@ -10,7 +10,7 @@ layout:
   title:
     visible: true
   description:
-    visible: true
+    visible: false
   tableOfContents:
     visible: true
   outline:
@@ -19,7 +19,7 @@ layout:
     visible: true
 ---
 
-# Initial Setup
+# 3.1 Initial Setup
 
 Because SecureZone requires a paid subscription to use, you will need to create an account and subscribe to a plan before you can start a monitor for intrusion detection. This guide will walk you through the initial setup process.
 
