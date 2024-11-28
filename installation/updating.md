@@ -23,7 +23,7 @@ layout:
 
 SecureZone is updated regularly with new features, improvements and bug fixes so it is important to keep your SecureZone installation up to date. This guide will show you how to update SecureZone to the latest version.
 
-## Updating on Synology Container Manager
+## Synology Container Manager
 
 If you are using the Synology Container Manager installation method, you can update SecureZone by pulling the latest image from Docker Hub and restarting the container. To do this, follow these steps:
 
@@ -37,7 +37,7 @@ If you are using the Synology Container Manager installation method, you can upd
 
 The latest version of SecureZone will now be deployed on your server. You can now access SecureZone at the same URL as before.
 
-## Updating on QNAP Container Station
+## QNAP Container Station
 
 If you are using the QNAP Container Station installation method, you can update SecureZone by pulling the latest image from Docker Hub and restarting the container. To do this, follow these steps:
 
@@ -51,7 +51,7 @@ If you are using the QNAP Container Station installation method, you can update 
 
 The latest version of SecureZone will now be deployed on your server. You can now access SecureZone at the same URL as before.
 
-## Updating on Docker
+## Docker
 
 If you are using the Docker installation method, you can update SecureZone by pulling the latest image from Docker Hub and restarting the container. To do this, run the following commands:
 
