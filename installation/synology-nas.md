@@ -36,7 +36,7 @@ First, open the Container Manager package on your Synology NAS.
 
 Next, click on the **Container** menu item in the left-hand sidebar. Click 'Create' and then fill in the following details:
 
-* **Image**: `ayltai/geekylifehacks:macbrewer-1.0.0`
+* **Image**: `ayltai/geekylifehacks:securezone-1.0.2`
 * **Container Name**: `SecureZone`
 * **Enable auto-restart**: Checked
 

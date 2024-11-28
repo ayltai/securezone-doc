@@ -36,7 +36,7 @@ First, open the Container Station app on your QNAP NAS.
 
 Next, click on the **Containers** menu item in the left-hand sidebar. Click **Create** and then fill in the following details:
 
-* **Image**: `ayltai/geekylifehacks:macbrewer-1.0.0`
+* **Image**: `ayltai/geekylifehacks:securezone-1.0.2`
 
 Click **Next** and fill in the following details:
 

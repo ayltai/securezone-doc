@@ -32,7 +32,7 @@ SecureZone runs as a Docker container on a Docker engine. This guide will walk y
 First, pull the SecureZone Docker image from the Docker Hub:
 
 ```bash
-docker pull ayltai/geekylifehacks:securezone-1.0.0
+docker pull ayltai/geekylifehacks:securezone-1.0.2
 ```
 
 Next, create the volume that SecureZone will use to store its data:
@@ -44,7 +44,7 @@ docker volume create securezone-data
 Finally, run the SecureZone container:
 
 ```bash
-docker run --name SecureZone -d -p 8002:8002 -v securezone-data:/data --restart=always ayltai/geekylifehacks:securezone-1.0.0
+docker run --name SecureZone -d -p 8002:8002 -v securezone-data:/data --restart=always ayltai/geekylifehacks:securezone-1.0.2
 ```
 
 SecureZone should now be running on your Docker engine. You can access it by navigating to `http://localhost:8002/web` in your web browser.
