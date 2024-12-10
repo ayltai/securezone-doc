@@ -28,7 +28,7 @@ Notifications are a way to get notified immediately when an intrusion is detecte
 To create a notification, go to the **Notifications** menu item in the left sidebar. Click on the **Create** button and fill in the following fields:
 
 * **Notification name**: A memorable name for the notification.
-* **Type**: The type of notification. Currently, only email and Slack are supported.
+* **Type**: The type of notification. Email, Slack, and custom webhooks are supported.
 
 Click on the **Configure notification provider** button to configure the notification provider.
 
@@ -53,6 +53,13 @@ Click **OK** to save the notification provider configuration.
 Click **OK** to save the notification provider configuration.
 
 Verify the information in `Configuration` is correct and click **Save** to create the notification.
+
+### Webhook
+
+* **Webhook URL:** The webhook URL endpoint to call. Currently, only POST requests are supported. The following information will be posted in the request body as a JSON object:
+  * **event\_time:** The UNIX timestamp when the event is triggered
+  * **event\_type:** `intrusion`
+  * **monitor\_name:** The name of the monitor that detects the intrusion event
 
 ## Edit a notification
 
